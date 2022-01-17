@@ -10,3 +10,12 @@
 .div3{
     background-color: hsl(0, 0%, 100%);
 }
+.div4{
+    background-color: hsl(219, 29%, 14%);
+    color: white;
+}
+/* @media screen and (max-width:425px) {
+    .container-1{
+        flex-direction: column;
+    }
+} */
